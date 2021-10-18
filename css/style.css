@@ -1,5 +1,10 @@
 body {
     text-align: center;
-    color: red;
     font-family: "Arial";
+}
+
+.container {
+    border: 1px solid #ccc;
+    width: 70%;
+    margin: 0 auto;
 }
