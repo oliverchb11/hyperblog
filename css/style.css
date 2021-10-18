@@ -7,4 +7,14 @@ body {
     border: 1px solid #ccc;
     width: 70%;
     margin: 0 auto;
+    padding: 0;
+}
+
+.cabezera {
+    background-color: coral;
+    padding: 0;
+    color: white;
+    height: 60px;
+    line-height: 60px;
+    box-shadow: 4px 4px 4px #ccc;
 }
